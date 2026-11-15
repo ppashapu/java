@@ -1,0 +1,6 @@
+git clone -> to clone the remote repository
+git status -> to check the status/ or progress of the git
+git add . -> to add the files to the staging staging stage here we can specify the files which we want with the file name
+git commit -> to add files from staging stage to local repository but it adds all the files as batch from are in staging stage
+git push -> to push the file/code to remote repository
+
