@@ -4,3 +4,5 @@ git add . -> to add the files to the staging staging stage here we can specify t
 git commit -> to add files from staging stage to local repository but it adds all the files as batch from are in staging stage
 git push -> to push the file/code to remote repository
 
+Check the current branch:
+git branch
