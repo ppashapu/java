@@ -1,0 +1,16 @@
+2 repos:
+local repo
+remote repo
+
+3 steps:
+add to staging
+commit
+push
+
+-----
+Git - software
+Github, Bitbucket, Gitlab
+
+branchint strategy:
+main/master -> develop/development -> release -> feature branch for each task/jira we work
+
