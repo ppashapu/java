@@ -25,3 +25,5 @@ git add **/*.txt
 git add **/*.java
 (or)
 git add **/*.txt **/*.java
+git fetch --> to download the latest changes from remote
+ 
