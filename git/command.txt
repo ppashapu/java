@@ -10,3 +10,4 @@ git branch  --> execute this commandgit branch  --> execute this command
 git merge <branch_name> --> to merge the branch in to the current branch
 
 
+git branch  --> execute this command
