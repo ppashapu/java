@@ -12,6 +12,8 @@ git pull Check the current branch details:
 git branch  --> execute this command to get the current branch 
 git merge <branch_name> --> to merge the branch in to the current branch
 git stash --> to save it temp
+git stash pop <file name> --> to revert back the file to local
+
 
 
 Add all files with .txt extension
