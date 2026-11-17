@@ -6,3 +6,4 @@ git push -> to push the file/code to remote repository
 
 Get latest changes:
 git pull
+git stash pop <file name> --> to revert back the temp changes to local
