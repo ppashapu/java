@@ -6,7 +6,7 @@ git push -> to push the file/code to remote repository
 
 Get latest changes:
 git pull Check the current branch details:
-git branch  --> execute this commandgit branch  --> execute this command
+git branch  --> execute this command to get the current branch 
 git merge <branch_name> --> to merge the branch in to the current branch
 
 
