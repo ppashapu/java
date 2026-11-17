@@ -1,3 +1,6 @@
+/ - forward slash
+\ - backward slash
+
 git clone -> to clone the remote repository
 git status -> to check the status/ or progress of the git
 git add . -> to add the files to the staging staging stage here we can specify the files which we want with the file name
@@ -8,6 +11,15 @@ Get latest changes:
 git pull Check the current branch details:
 git branch  --> execute this command to get the current branch 
 git merge <branch_name> --> to merge the branch in to the current branch
+git stash --> to save it temp
 
 
-git branch  --> execute this command
+Add all files with .txt extension
+git add **/*.txt
+git add **/*.java
+
+Add all files with .txt extension and .java extension
+git add **/*.txt
+git add **/*.java
+(or)
+git add **/*.txt **/*.java
